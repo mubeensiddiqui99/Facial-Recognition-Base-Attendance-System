@@ -1,0 +1,46 @@
+C:\Users\ASUS\source\repos\face\face\obj\Debug\face.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\face\face\obj\Debug\face.Form1.resources
+C:\Users\ASUS\source\repos\face\face\obj\Debug\face.Properties.Resources.resources
+C:\Users\ASUS\source\repos\face\face\obj\Debug\face.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\face\face\obj\Debug\face.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\face\face\bin\Debug\face.exe.config
+C:\Users\ASUS\source\repos\face\face\bin\Debug\face.exe
+C:\Users\ASUS\source\repos\face\face\bin\Debug\face.pdb
+C:\Users\ASUS\source\repos\face\face\bin\Debug\Emgu.CV.dll
+C:\Users\ASUS\source\repos\face\face\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ASUS\source\repos\face\face\bin\Debug\Emgu.Util.dll
+C:\Users\ASUS\source\repos\face\face\obj\Debug\face.csproj.CopyComplete
+C:\Users\ASUS\source\repos\face\face\obj\Debug\face.exe
+C:\Users\ASUS\source\repos\face\face\obj\Debug\face.pdb
+C:\Users\ASUS\source\repos\face\face\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\ASUS\source\repos\face\face\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Saad Faisal\Desktop\face\face\bin\Debug\face.exe.config
+C:\Users\Saad Faisal\Desktop\face\face\bin\Debug\face.exe
+C:\Users\Saad Faisal\Desktop\face\face\bin\Debug\face.pdb
+C:\Users\Saad Faisal\Desktop\face\face\obj\Debug\face.csprojAssemblyReference.cache
+C:\Users\Saad Faisal\Desktop\face\face\obj\Debug\face.Form1.resources
+C:\Users\Saad Faisal\Desktop\face\face\obj\Debug\face.Properties.Resources.resources
+C:\Users\Saad Faisal\Desktop\face\face\obj\Debug\face.csproj.GenerateResource.cache
+C:\Users\Saad Faisal\Desktop\face\face\obj\Debug\face.csproj.CoreCompileInputs.cache
+C:\Users\Saad Faisal\Desktop\face\face\obj\Debug\face.csproj.CopyComplete
+C:\Users\Saad Faisal\Desktop\face\face\obj\Debug\face.exe
+C:\Users\Saad Faisal\Desktop\face\face\obj\Debug\face.pdb
+C:\Users\Saad Faisal\Desktop\face\face\obj\Debug\face.Course_form.resources
+C:\Users\Saad Faisal\Desktop\face\face\obj\Debug\face.student_form.resources
+C:\Users\Saad Faisal\Desktop\face\face\obj\Debug\face.Mark_Attendance_Form.resources
+C:\Users\Saad Faisal\Desktop\face\face\bin\Debug\ExcelLibrary.dll
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\bin\Debug\face.exe.config
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\bin\Debug\face.exe
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\bin\Debug\face.pdb
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\bin\Debug\ExcelLibrary.dll
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\obj\Debug\face.csprojAssemblyReference.cache
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\obj\Debug\face.Course_form.resources
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\obj\Debug\face.Form1.resources
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\obj\Debug\face.Mark_Attendance_Form.resources
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\obj\Debug\face.Properties.Resources.resources
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\obj\Debug\face.student_form.resources
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\obj\Debug\face.csproj.GenerateResource.cache
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\obj\Debug\face.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\obj\Debug\face.csproj.CopyComplete
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\obj\Debug\face.exe
+D:\UNIVERSITY\SEMESTER 3\Data Structures\PROJECT\FINALFINAL\face\face\obj\Debug\face.pdb
